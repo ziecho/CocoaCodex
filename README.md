@@ -1,5 +1,9 @@
 # CocoaCodex
 
+<p align="center">
+  <img src="icon.png" alt="CocoaCodex icon" width="128">
+</p>
+
 CocoaCodex is a tiny macOS menu bar app that sends your current Xcode selection to Codex.
 
 Press a global shortcut in Xcode, and CocoaCodex copies a Markdown link to the selected file and line range, then inserts it into the current Codex chat input.
